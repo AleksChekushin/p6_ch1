@@ -1,0 +1,7 @@
+C:\Users\Юлиана\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\Юлиана\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\Юлиана\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\Юлиана\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\Bank.csproj.AssemblyReference.cache
+C:\Users\Юлиана\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+C:\Users\Юлиана\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\Юлиана\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
