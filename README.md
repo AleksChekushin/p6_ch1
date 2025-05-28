@@ -1,9 +1,12 @@
 #Результат работы до изменений:
 ![image](https://github.com/user-attachments/assets/ee60e2dc-279d-4c9f-98d8-752c9a636225)
-#Результат работы ппосле изменений:
+
+#Результат работы после изменений:
 ![image](https://github.com/user-attachments/assets/46924316-ee2a-4c19-905e-fe0785df19c3)
+
 #Результат обозревателя тестов:
 ![image](https://github.com/user-attachments/assets/0fff529d-e896-42b6-8109-30aad110fe46)
+
 В ходе работы был создан проект Bank, содержащий класс BankAccount с методами Debit и Credit. Эти методы были протестированы с использованием модульных тестов в проекте BankTests. Были созданы следующие тестовые методы:
 - Debit_WithValidAmount_UpdatesBalance — проверка корректности списания средств при допустимой сумме.
 - Debit_WhenAmountIsLessThanZero_ShouldThrowArgumentOutOfRange — проверка выброса исключения при попытке списания отрицательной суммы.
